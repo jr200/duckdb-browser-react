@@ -1,1 +1,2 @@
-# duckdb-browser-react
+# DuckDB-WASM React-Typescript Example
+
